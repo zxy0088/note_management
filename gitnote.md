@@ -12,10 +12,10 @@ Gitee：开源中国运营的基于 Git 的国内代码托管平台，功能类�
 GitHub：微软旗下的基于 Git 的远程代码托管平台，全球最大的开源社区，服务器在国外。
 
 因为之前已经对Gitee有所了解，所以很早就完成了对Gitee的下载注册，那么现在以登录界面来记录Gitee的使用过程
-![git下载](https://i-blog.csdnimg.cn/direct/df8c154b9dd14b5f9ab393886681301d.png)
-![Gitee的注册](https://i-blog.csdnimg.cn/direct/1c5fa034602f470e9a87fe48b50d3230.png)
-![进入目标文件夹，右键进入终端](https://i-blog.csdnimg.cn/direct/c58413e6198546429f089a7070d97daf.png)
-![终端打开界面](https://i-blog.csdnimg.cn/direct/4f95df248ac3459c8e60180f5f992a0a.png)git命令在电脑终端或者命令行里敲，gitee或者github是用来管理代码帮助进行协作，回溯，查找。如果想知道当前终端在哪个文件夹，Windows中在CMD用cd可以查看，PowerShell用pwd也可以查看
+![输入图片说明](%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-23%20141803.png)
+![输入图片说明](%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-23%20131250.png)
+![输入图片说明](%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-23%20141724.png)
+git命令在电脑终端或者命令行里敲，gitee或者github是用来管理代码帮助进行协作，回溯，查找。如果想知道当前终端在哪个文件夹，Windows中在CMD用cd可以查看，PowerShell用pwd也可以查看
 # 二.了解哈希值，分支branch，head之间的关系
 ### 哈希值
 每次提交过程中代码的内容，提交的时间，其父节点等等会生成一串数字，取该数字中的一部分作为简要标记
